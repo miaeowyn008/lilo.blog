@@ -4,6 +4,7 @@ date = "2024-05-24"
 draft = false
 pinned = false
 tags = ["Deutsch", "Reportage"]
+image = "bild-ki-2.0.png"
 footnotes = "\\*Name der Redakation bekannt"
 +++
 ![]()
